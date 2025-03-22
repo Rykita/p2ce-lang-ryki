@@ -1,0 +1,66 @@
+From 7425a8922ed5fea8c3b0115371dc52b0a7ceedc4 Mon Sep 17 00:00:00 2001
+From: Rykita <micheal.labus@gmail.com>
+Date: Sat, 22 Mar 2025 02:16:20 +0100
+Subject: [PATCH 2/2] Fixed two simple typos
+
+---
+ 0001-Updated-for-Customization-Settings.patch |  37 ++++++++++++++++++
+ p2ce_english.txt                              | Bin 103922 -> 103926 bytes
+ 2 files changed, 37 insertions(+)
+ create mode 100644 0001-Updated-for-Customization-Settings.patch
+
+diff --git a/0001-Updated-for-Customization-Settings.patch b/0001-Updated-for-Customization-Settings.patch
+new file mode 100644
+index 0000000..a143b4a
+--- /dev/null
++++ b/0001-Updated-for-Customization-Settings.patch
+@@ -0,0 +1,37 @@
++From 2a63153b760477804e179b206e211815537b5d3e Mon Sep 17 00:00:00 2001
++From: Rykita <micheal.labus@gmail.com>
++Date: Sat, 22 Mar 2025 01:55:22 +0100
++Subject: [PATCH] Updated for Customization Settings
++
++---
++ p2ce_english.txt | Bin 100588 -> 103922 bytes
++ 1 file changed, 0 insertions(+), 0 deletions(-)
++
++diff --git a/p2ce_english.txt b/p2ce_english.txt
++index 45d540e870cc49df0fe62e4c3b828f91334f0c60..7921b534b06f00c98c100fa7b19b6aef3ae52039 100755
++GIT binary patch
++delta 2299
++zcma)8&r4KM6h5aPDug78Scv*Y8BnH_sYPHEm}OW=nh1%+^qL<!FwUFijhSJYe?U;o
++z;%?iw5`vaNJ6F-7WsBCesehopbFXja&KsW&@_29V{qFaj^PTg~^Y^>9zaQFOf8?&+
++zsx#e|oTEIYX^mXUQh^+rVwaxK2CeXW+Qh1lwKeROaXB<e*VSG-4@^u0;!}k@S_i=k
++z04unARHR|RhAFhK_!W<J&I3>e(1lV`aS!*LwU-<$x(*NBwHK3=LVO}q(jtc5M&KAE
++zr!7n#8RVgnr%Ltd_kLA!xNFEh5++SiUcFi7fiWA@8t-NMi10qwX6BJ-;6xdr`S=r)
++zW!<TIU;5PJ4(?7yA4W(pGl!#w#=~=tCaYiX^zN)<HKXe>N;5js0)A!S!ltfO5l<yx
++z0<Rrlq>d$c;=)bAj?o3I+=s>_?sgm|?;|wETNIH-LSSldn`2G(*KJB6u1nP)C;GT<
++z%oRKQMpp%%JTRpx?3%L;z2@s)J7b|$vWH`{)&l%V!4>J5RisxrRNy9U!7o?0d>XFZ
++z3(#s|o8t{BhUtP1>&)03>dy@KCQN%vxmQ7I3hkiS(l_gk#nEvu9~HOQ<Dn1ajXmsL
++zsl|-gjo>Wq72u2HtJF)5@3cxEZqYdiXF!|7mDLSb(VZggSChbV1s0e*!;PoS=?EMa
++zcY4&rZ5~{(LrP)401~mSfU68Clj)RRm&~O~l2cefri4DDjT||SHmF*{D7MZVx0$6E
++znnOmRRMz8>Artj@RIDm_jbknG`RcRBiI(_O=_;Q(SwO{Q3ZK3Ws|wl@y^+EOVwRC#
++z!km|1X11GAY)m(nKWM@@q}h;8&1^i6(hXR@fx=+?=!u|}9vP()w7g@r<_|$dsV#yn
++ztNyth*E(sVBP~;;XNXyvCMqY1JB*6bvFcpUDpB_@2lukbIrus@IapoT?~O;Xi@P<3
++zI{%X4ck#B#r#U*4sSqMcXHnu)KhJTzUH%{NDJ^|*p3~~vAjg&t*3c3@tdWF@xXKt;
++zTL*0-!%Ds^!Q5QbxIE+?x@DmqGARLFUD@wfZ&$ecq84n4Ja```THv=#_doG2|7!ma
++Dik;M7
++
++delta 22
++ecmeygn(fU*wuUW?0*%wF`WcnBTl6vRVg~?oNeJ%%
++
++-- 
++2.48.1
++
+diff --git a/p2ce_english.txt b/p2ce_english.txt
+index 7921b534b06f00c98c100fa7b19b6aef3ae52039..e9461b48212a2998d7b6e96b7d09929c110161c4 100755
+GIT binary patch
+delta 42
+rcmeygn(f<awuUW?&)TPNXk%oVUeL)XH2qgQV;r0-vOTYZv4s}^q8Sm7
+
+delta 32
+mcmeyin(fnSwuUW?&)TOKbux-f|I^MG2V#kBFX~`y;ROHz4-NSM
+
+-- 
+2.48.1
+

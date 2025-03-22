@@ -1,7 +1,7 @@
 From 2a63153b760477804e179b206e211815537b5d3e Mon Sep 17 00:00:00 2001
 From: Rykita <micheal.labus@gmail.com>
 Date: Sat, 22 Mar 2025 01:55:22 +0100
-Subject: [PATCH] Updated for Customization Settings
+Subject: [PATCH 1/2] Updated for Customization Settings
 
 ---
  p2ce_english.txt | Bin 100588 -> 103922 bytes
